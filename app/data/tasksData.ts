@@ -1,0 +1,17 @@
+export const DAILY_TASKS = [
+    { title: 'Hang with Homies', description: 'Log in Discord and chill out with your homies' },
+    { title: 'Spread the Word', description: 'Yapp about Succinct in X' },
+    { title: 'High Stakes', description: 'Bet all your points in Stage 2 in one bid' },
+    { title: 'Overclocked', description: 'Get overclocked in Stage 2' },
+    { title: 'Warm It Up', description: 'Warm GPU in Stage 2' },
+    { title: 'Support Crew', description: 'Go support your homies in X' },
+    { title: 'Prover Check', description: 'Go check that your Prover is working and maxing out' },
+    { title: 'Proof of Food', description: 'Post Proof of Food in X or Discord' },
+    { title: 'Rockstar Week', description: 'Complete one of the Succinct Rockstar Weeks' },
+    { title: 'TGE Hype', description: 'Make a post about TGE 28th July' },
+    { title: 'Realtime Globe', description: 'Watching realtime proving globe' },
+    { title: 'Stage 2.5 Art', description: 'Promote stage 2.5 with your art skills' },
+    { title: 'Succinct Edits', description: 'Making edits relating to Succinct' },
+    { title: 'Succinct Theorist', description: 'Come up with a new theory and date based on Eddy’s posts' },
+    { title: 'Meta Completion', description: 'Post screenshot of completing 4 other daily tasks' },
+  ]
