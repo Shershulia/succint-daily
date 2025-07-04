@@ -21,10 +21,12 @@ export function TaskShareButton() {
       .join('\n')
 
     const tweetText = `
-    I completed ${completedCount}/${totalRequired} daily tasks by @"MrS1rsh" for @"SuccinctLabs" on SuccinctDaily.
+    I completed ${completedCount}/${totalRequired} daily tasks by @MrS1rsh for @SuccinctLabs on SuccinctDaily.
 
     ${completedCount > 0 ? 'My tasks were:\n' + taskDescriptions + '\n\n' : ''}
 
+    Go check new tasks now!
+    https://succint-daily.vercel.app/
     #ProveWithUs  
     `
 
